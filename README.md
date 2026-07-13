@@ -8,13 +8,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0344-reverse-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
+| [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
