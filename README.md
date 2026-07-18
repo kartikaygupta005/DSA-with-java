@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
 |  |
@@ -89,8 +90,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
