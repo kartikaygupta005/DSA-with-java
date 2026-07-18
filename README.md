@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0875-koko-eating-bananas) |
 ## Math
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
