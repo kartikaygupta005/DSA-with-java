@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0875-koko-eating-bananas) |
 ## Binary Search
@@ -83,4 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
