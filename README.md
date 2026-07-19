@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
+| [0844-backspace-string-compare](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0739-daily-temperatures) |
+| [0844-backspace-string-compare](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -109,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
