@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0020-valid-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0227-basic-calculator-ii) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0739-daily-temperatures) |
