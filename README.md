@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0062-unique-paths) |
+| [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
 ## Backtracking
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0227-basic-calculator-ii) |
+| [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -127,8 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
