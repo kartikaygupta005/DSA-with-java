@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0844-backspace-string-compare) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
 ## Sliding Window
@@ -169,5 +171,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0912-sort-an-array) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
