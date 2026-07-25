@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0078-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
