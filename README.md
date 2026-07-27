@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -194,5 +196,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
