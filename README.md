@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0746-min-cost-climbing-stairs) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0876-middle-of-the-linked-list) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
