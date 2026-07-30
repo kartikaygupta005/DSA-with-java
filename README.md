@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
+| [0784-letter-case-permutation](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0078-subsets) |
+| [0784-letter-case-permutation](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0784-letter-case-permutation) |
 ## Linked List
 |  |
 | ------- |
