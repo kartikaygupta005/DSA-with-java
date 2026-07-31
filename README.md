@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0070-climbing-stairs) |
+| [0152-maximum-product-subarray](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0078-subsets) |
+| [0152-maximum-product-subarray](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
