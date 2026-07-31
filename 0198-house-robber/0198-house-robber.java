@@ -1,14 +1,24 @@
 class Solution {
-    public int rob(int[] nums) {
-        int prev1 = 0; // dp[i-1]
-        int prev2 = 0; // dp[i-2]
+    private int[] memo;
 
-        for (int num : nums) {
-            int curr = Math.max(prev1, prev2 + num);
-            prev2 = prev1;
-            prev1 = curr;
+    public int rob(int[] nums) {
+        memo = new int[nums.length];
+        Arrays.fill(memo, -1);
+        return dfs(0, nums);
+    }
+
+    private int dfs(int i, int[] nums) {
+        if (i >= nums.length) {
+            return 0;
         }
 
-        return prev1;
+        if (memo[i] != -1) {
+            return memo[i];
+        }
+
+        int rob = nums[i] + dfs(i + 2, nums);
+        int skip = dfs(i + 1, nums);
+
+        return memo[i] = Math.max(rob, skip);
     }
 }
