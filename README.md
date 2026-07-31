@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0746-min-cost-climbing-stairs) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
