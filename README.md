@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0875-koko-eating-bananas) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Greedy
 |  |
