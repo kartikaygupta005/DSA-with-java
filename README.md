@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0713-subarray-product-less-than-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 ## Array
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0746-min-cost-climbing-stairs) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
@@ -257,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
+| [0713-subarray-product-less-than-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Greedy
