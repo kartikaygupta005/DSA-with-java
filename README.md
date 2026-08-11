@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0704-binary-search) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0912-sort-an-array) |
 ## Matrix
 |  |
@@ -217,12 +220,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -231,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -240,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0912-sort-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0912-sort-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -279,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 ## Game Theory
 |  |
 | ------- |
