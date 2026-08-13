@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
@@ -315,8 +317,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
