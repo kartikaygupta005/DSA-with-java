@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0020-valid-parentheses) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0169-majority-element) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 ## Array
