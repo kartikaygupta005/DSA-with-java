@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
