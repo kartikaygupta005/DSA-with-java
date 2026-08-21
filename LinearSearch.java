@@ -1,0 +1,18 @@
+import java.util.*;
+public class main{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        int len = sc.nextInt();
+        int[] arr = new int[len];
+        for(int i = 0 ; i < len ; i++){
+            arr[i] = sc.nextInt();
+        }
+        int search = sc.nextInt();
+        for(int i = 0 ; i < len ;i++){
+            if(arr[i] == search){
+                System.out.println("the number found at index" + i);
+                
+            }
+        }
+    }
+}
