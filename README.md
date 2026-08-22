@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Quickselect
 |  |
 | ------- |
