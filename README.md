@@ -352,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0098-validate-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
