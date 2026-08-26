@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0227-basic-calculator-ii) |
+| [0231-power-of-two](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0268-missing-number) |
 | [0507-perfect-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
 ## Combinatorics
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0078-subsets) |
+| [0231-power-of-two](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0268-missing-number) |
 | [0784-letter-case-permutation](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0784-letter-case-permutation) |
 ## Linked List
