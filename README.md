@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0206-reverse-linked-list) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -374,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0100-same-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Search Tree
