@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
