@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0078-subsets) |
+| [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
 | [0784-letter-case-permutation](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0784-letter-case-permutation) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
 ## Depth-First Search
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
@@ -406,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
 | ------- |
