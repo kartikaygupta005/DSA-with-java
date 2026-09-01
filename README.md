@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0617-merge-two-binary-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0617-merge-two-binary-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0617-merge-two-binary-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
