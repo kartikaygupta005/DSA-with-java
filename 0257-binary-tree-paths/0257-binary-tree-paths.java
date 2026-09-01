@@ -36,13 +36,15 @@
         int size = path.length();
 
         if (root.left != null) {
-            path.append("->").append(root.left.val);
+            path.append("->");
+            path.append(root.left.val);
             backtrack(root.left, path, res);
             path.setLength(size);
         }
 
         if (root.right != null) {
-            path.append("->").append(root.right.val);
+            path.append("->");
+            path.append(root.right.val);
             backtrack(root.right, path, res);
             path.setLength(size);
         }
