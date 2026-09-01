@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
@@ -413,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -444,4 +447,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0177-nth-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0182-duplicate-emails) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
