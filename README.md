@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0877-stone-game) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0617-merge-two-binary-trees) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0617-merge-two-binary-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -439,10 +442,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0617-merge-two-binary-trees) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0098-validate-binary-search-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -455,4 +460,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
