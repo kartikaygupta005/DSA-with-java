@@ -15,7 +15,6 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        boolean bool = true ;
         int sum = 0 ; 
         return recursion(root , targetSum, sum);
     }
