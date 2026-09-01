@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
 ## Breadth-First Search
 |  |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0226-invert-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
 | [0797-all-paths-from-source-to-target](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0797-all-paths-from-source-to-target) |
 ## Graph Theory
 |  |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -428,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
 | ------- |
