@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0877-stone-game) |
+| [3875-construct-uniform-parity-array-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
