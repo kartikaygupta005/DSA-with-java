@@ -1,6 +1,5 @@
 class Solution {
     public boolean isPowerOfTwo(int n) {
-        recursion(n );
         return recursion(n) ; 
     }
     private static boolean recursion(int n){
