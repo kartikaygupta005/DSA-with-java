@@ -15,17 +15,24 @@
  */
 class Solution {
     public boolean hasPathSum(TreeNode root, int targetSum) {
-        int sum = 0 ; 
-        return recursion(root , targetSum, sum);
+        int sum = 0 ;
+        return recursion(root ,sum , targetSum  );
     }
-    private static boolean recursion(TreeNode root , int targetSum , int sum ){
-        if(root == null){
+    private boolean recursion(TreeNode root, int sum , int targetSum){
+        if(root == null ){
             return false ;
         }
-        sum += root.val ;
-        if(root.left == null && root.right == null ){
-            return sum == targetSum ;
+        sum += root.val  ; 
+        if(root.left == null && root.right == null){
+            return sum == targetSum ; 
         }
-        return recursion(root.left , targetSum, sum) || recursion(root.right , targetSum, sum); 
+        return recursion( root.left , sum , targetSum ) || recursion( root.right , sum , targetSum ) ;
     }
 }
+
+
+
+
+
+
+
