@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0092-reverse-linked-list-ii) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0141-linked-list-cycle) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0112-path-sum) |
@@ -444,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0112-path-sum) |
@@ -463,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0700-search-in-a-binary-search-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Database
