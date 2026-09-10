@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0344-reverse-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0647-palindromic-substrings](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0647-palindromic-substrings) |
 | [0844-backspace-string-compare](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0876-middle-of-the-linked-list) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0875-koko-eating-bananas](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0875-koko-eating-bananas) |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0912-sort-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Heap (Priority Queue)
