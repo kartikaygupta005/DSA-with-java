@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
 | [0227-basic-calculator-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0227-basic-calculator-ii) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0101-symmetric-tree) |
@@ -443,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0101-symmetric-tree) |
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
