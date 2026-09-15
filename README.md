@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0912-sort-an-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1352-product-of-the-last-k-numbers) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0877-stone-game) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1352-product-of-the-last-k-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
@@ -272,10 +274,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0707-design-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0707-design-linked-list) |
 | [0901-online-stock-span](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1352-product-of-the-last-k-numbers) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0901-online-stock-span) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1352-product-of-the-last-k-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1352-product-of-the-last-k-numbers) |
 ## Greedy
 |  |
 | ------- |
