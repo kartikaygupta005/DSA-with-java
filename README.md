@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0344-reverse-string) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0347-top-k-frequent-elements) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0096-unique-binary-search-trees) |
 | [0172-factorial-trailing-zeroes](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0268-missing-number) |
@@ -500,4 +503,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0543-diameter-of-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
