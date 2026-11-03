@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/kartikaygupta005/DSA-with-java/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/kartikaygupta005/DSA-with-java/tree/master/0877-stone-game) |
 | [1352-product-of-the-last-k-numbers](https://github.com/kartikaygupta005/DSA-with-java/tree/master/1352-product-of-the-last-k-numbers) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kartikaygupta005/DSA-with-java/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kartikaygupta005/DSA-with-java/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
